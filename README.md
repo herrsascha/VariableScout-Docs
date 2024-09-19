@@ -15,6 +15,6 @@ We value your feedback and are here to help you get the most out of VariableScou
 - Browse Issues: [View existing issues or feature requests](https://.com/).
 - Create New Issue: Found a bug or have a suggestion? [Create a new issue](https://.com/).
 
------
+---
 
 Thank you for choosing VariableScout! If you find this plugin helpful, please consider leaving a review on the Figma Community page.
