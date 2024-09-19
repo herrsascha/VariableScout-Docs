@@ -13,7 +13,7 @@ VariableScout is a powerful Figma plugin designed to streamline the management o
 - Filtering: Filter variables and nodes by type, attributes, or custom criteria.
 - Search Functionality: Quickly search for specific variables, nodes, or collections.
 - Focused View: Simplify the variable value and node path, highlighting only the essential elements.
-- Export Variables: Export variables in various formats (e.g., JSON, CSV).
+- Export Variables: Export variables in various formats (.JSON, .CSV).
 - Selection Sync: Automatically updates to reflect the currently selected nodes on the canvas.
 - Settings Customization: Tailor the plugin to your workflow with various settings like "Only selected nodes" and "Only unused variables".
 
