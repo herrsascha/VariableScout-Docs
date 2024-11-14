@@ -37,6 +37,10 @@ Unlock additional capabilities with **VariableScout Pro**:
 | Merge Collection Sections | Merges variables and nodes into a single list, hiding individual collection and group sections. | Activate to view all cards in one continuous list. | Useful when you want a holistic view without the hierarchy of collections and groups. |
 | Remember Settings | Saves your current settings for future sessions. | Toggle on to keep your preferences every time you use VariableScout. | If you always work with "Focused View" enabled, this setting ensures it's active on startup. |
 
+## Overview
+
+![VariableScout Filter Anatomy](https://github.com/herrsascha/VariableScout-Docs/blob/main/assets/Filter-Anatomy.png)
+
 ## Support & Feedback
 
 We value your feedback and are here to help you get the most out of VariableScout.
