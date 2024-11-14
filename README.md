@@ -16,6 +16,7 @@ Unlock additional capabilities with **VariableScout Pro**:
 
 - Shared Variables: Access variables in linked/shared libraries across your projects.
 - Variable Swap: Directly modify variable connections for multiple filtered nodes simultaneously.
+- Shared Variables: Show only variables that haven’t been used in the document.
 - Export Variables: Export variables with customizable options.
 
 ## Installation
