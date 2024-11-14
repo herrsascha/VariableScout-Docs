@@ -39,10 +39,10 @@ Unlock additional capabilities with **VariableScout Pro**:
 
 ## Usage Guides
 
-> [!NOTE]
+> [!IMPORTANT]
 > Loading collections and mapping variables to nodes for the first time may take longer than subsequent loads. Future loading times will be faster.
 
-> [!WARNING]
+> [!NOTE]
 > Loading large collections (>2500 variables and/or 25000 Nodes) may take some time.
 
 ## Support & Feedback
