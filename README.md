@@ -17,7 +17,7 @@ VariableScout is a powerful Figma plugin designed to streamline the management o
 - Selection Sync: Automatically updates to reflect the currently selected nodes on the canvas.
 - Settings Customization: Tailor the plugin to your workflow with various settings like "Only selected nodes" and "Only unused variables".
 
-Unlock additional capabilities with **VariableScout Pro** (currently included in Open Beta):
+Unlock additional capabilities with **VariableScout Pro** (free during Open Beta testing period):
 
 - Shared Variables: Access variables in linked/shared libraries across your projects.
 - Variable Swap: Directly modify variable connections for multiple filtered nodes simultaneously.
