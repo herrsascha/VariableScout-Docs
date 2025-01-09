@@ -26,7 +26,7 @@ Unlock additional capabilities with **VariableScout Pro** (free during Open Beta
 
 ## Installation
 
-1. Install from Figma Community: Visit the [VariableScout Figma Plugin Page](https://.com/) and click "Install".
+1. Install from Figma Community: Visit the [VariableScout Figma Plugin Page](https://www.figma.com/community/plugin/1440799497106254634/variablescout) and click "Install".
 2. Run the Plugin: In your Figma file, go to `Plugins` → `VariableScout` to launch the plugin.
 
 ## Instructions
@@ -55,9 +55,9 @@ Unlock additional capabilities with **VariableScout Pro** (free during Open Beta
 
 We value your feedback and are here to help you get the most out of VariableScout.
 
-- Figma Plugin Page: [VariableScout on Figma](https://.com/)
-- Browse Issues: [View existing issues or feature requests](https://.com/).
-- Create New Issue: Found a bug or have a suggestion? [Create a new issue](https://.com/).
+- Figma Plugin Page: [VariableScout on Figma](https://www.figma.com/community/plugin/1440799497106254634/variablescout)
+- Browse Issues: [View existing issues or feature requests](https://github.com/herrsascha/VariableScout-Docs/issues)
+- Create New Issue: Found a bug or have a suggestion? [Create a new issue](https://github.com/herrsascha/VariableScout-Docs/issues/new)
 
 ---
 
