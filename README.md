@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> The plugin is currently in Open Beta. Some features might still be refined, and feedback is invaluable in helping improve it before the final release. Thank you for being part of this journey!
+> The plugin is currently in Beta. Some features might still be refined, and feedback is invaluable in helping improve it before the final release. Thank you for being part of this journey!
 
 # VariableScout
 
