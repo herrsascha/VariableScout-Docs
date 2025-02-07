@@ -1,7 +1,5 @@
 > [!IMPORTANT]
-> The plugin is currently in Open Beta, which means it’s open to everyone to try for free during this testing period. This is an opportunity to explore all features, including VariableScout Pro functionalities, at no cost for a limited time.
-> 
-> As this is a beta version, some features might still be refined, and feedback is invaluable in helping improve it before the final release. Thank you for being part of this journey!
+> The plugin is currently in Open Beta. Some features might still be refined, and feedback is invaluable in helping improve it before the final release. Thank you for being part of this journey!
 
 # VariableScout
 
@@ -16,9 +14,6 @@ VariableScout is a powerful Figma plugin designed to streamline the management o
 - Export Variables: Export variables in various formats (.JSON, .CSV).
 - Selection Sync: Automatically updates to reflect the currently selected nodes on the canvas.
 - Settings Customization: Tailor the plugin to your workflow with various settings like "Only selected nodes" and "Only unused variables".
-
-Unlock additional capabilities with **VariableScout Pro** (free during Open Beta testing period):
-
 - Shared Variables: Access variables in linked/shared libraries across your projects.
 - Variable Swap: Directly modify variable connections for multiple filtered nodes simultaneously.
 - Only Unused Variables: Show only variables that haven’t been used in the document.
