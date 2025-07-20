@@ -11,13 +11,14 @@ VariableScout is a powerful Figma plugin designed to streamline the management o
 - Filtering: Filter variables and nodes by type.
 - Search Functionality: Quickly search for specific variables, nodes, or collections.
 - Focused View: Simplify the variable value and node path, highlighting only the essential elements.
-- Export Variables: Export variables in various formats (.JSON, .CSV).
+- Export Variables: Export variables with customizable options and in various formats (.JSON, .CSV).
 - Selection Sync: Automatically updates to reflect the currently selected nodes on the canvas.
 - Settings Customization: Tailor the plugin to your workflow with various settings like "Only selected nodes" and "Only unused variables".
 - Shared Variables: Access variables in linked/shared libraries across your projects.
 - Variable Swap: Directly modify variable connections for multiple filtered nodes simultaneously.
 - Only Unused Variables: Show only variables that haven’t been used in the document.
-- Export Variables: Export variables with customizable options.
+- Trace Variables to the Source: See exactly where a variable is created and how it connects across libraries and files.
+- Quickly reload collections: After switching pages or updating designs rescan collections for latest data.
 
 ## Installation
 
@@ -30,13 +31,15 @@ VariableScout is a powerful Figma plugin designed to streamline the management o
 
 | Setting | Description | How to Use | Example |
 | :--- | :--- | :--- | :--- |
-| Only selected Nodes | Displays data only for the selected elements. | Toggle this setting on to focus on currently selected elements. | If you select a button on your canvas, VariableScout will only show variables connected to that button. |
+| Only Selected Nodes | Displays data only for the selected elements. | Toggle this setting on to focus on currently selected elements. | If you select a button on your canvas, VariableScout will only show variables connected to that button. |
 | Only Unused Variables | Displays only unused variables in the document. | Enable this setting to identify and clean up unused variables. | Helps in finding color variables that are defined but not applied to any elements. |
 | Focused View | Highlights only essential elements by hiding variable values and node paths. | Turn on to reduce visual clutter for easier navigation. | Hides detailed node paths, showing a streamlined list of node labels. |
 | Copy Full Token | Copies the full token name, including its group structure, to the clipboard. | When enabled, copying a variable will include its full path. | Instead of copying just `primary-color`, it copies `colors/brand/primary-color`. |
 | Merge Collection Sections | Combines all variables and nodes into a single list, hiding separate collection and group sections. | Activate to view all cards in one continuous list. | Useful when you want a holistic view without the hierarchy of collections and groups. |
-| Ignore hidden layers | Hides nodes that are not visible in the document. | Enable this setting to exclude hidden layers from the variable analysis. This helps you focus only on visible elements in your design. | If you have hidden a group of buttons for prototyping purposes, VariableScout will not display any variables related to those hidden buttons. |
-| Remember Settings | Saves your current settings for future sessions. | Toggle on to keep your preferences every time you use VariableScout. | If you always work with "Focused View" enabled, this setting ensures it's active on startup. |
+| Ignore Hidden layers | Hides nodes that are not visible in the document. | Enable this setting to exclude hidden layers from the variable analysis. This helps you focus only on visible elements in your design. | If you have hidden a group of buttons for prototyping purposes, VariableScout will not display any variables related to those hidden buttons. |
+| Show Variable Modes | Displays mode-specific usage of variables across nodes and modes. | Turn on to show a separate card for each mode a variable is used in. Turn off to display only the default mode. | If a variable has different values for light and dark modes, enabling this will show separate cards for each mode. |
+| Hide Property Badges | Hides the property badges on node cards. | Turn on to remove badges that indicate where variables are applied. Useful for focusing on node names or paths without distraction. | Helps reduce visual noise when reviewing node structure or grouping. |
+| Save Settings | Saves your current settings for future sessions. | Toggle on to keep your preferences every time you use VariableScout. | If you always work with "Focused View" enabled, this setting ensures it's active on startup. |
 
 ## Usage Guides
 
@@ -45,6 +48,13 @@ VariableScout is a powerful Figma plugin designed to streamline the management o
 
 > [!NOTE]
 > Loading large collections (>2500 variables and/or 25000 Nodes) may take some time.
+
+## Quick Tips
+- When in export mode the plugin exports your current view including all filters and searches.
+- Hover over the number indicator next to the Variables label to view the count of used and unused variables.
+  ![](https://github.com/herrsascha/VariableScout-Docs/blob/main/img/hover-counter.png?raw=true)
+- Click the variable card pointer to open the variable trace overlay.
+  ![](https://github.com/herrsascha/VariableScout-Docs/blob/main/img/variable-pointer.png?raw=true)
 
 ## Support & Feedback
 
