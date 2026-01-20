@@ -22,8 +22,8 @@ VariableScout is a powerful Figma plugin designed to streamline the management o
 
 ## Installation
 
-1. Install from Figma Community: Visit the [VariableScout Figma Plugin Page](https://www.figma.com/community/plugin/1440799497106254634/variablescout) and click "Open in...".
-2. Run the Plugin: In your Figma file, go to `Plugins` → `VariableScout` to launch the plugin.
+1. From the community: Visit the [VariableScout Figma Plugin Page](https://www.figma.com/community/plugin/1440799497106254634/variablescout) and click "Open in...".
+2. In your file: Go to `Plugins` → `VariableScout` to launch the plugin.
 
 ## Instructions
 
